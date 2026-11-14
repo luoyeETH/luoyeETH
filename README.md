@@ -15,9 +15,10 @@
 
 ### 📊 GitHub Stats
 
-[![luoyeETH's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
-<br/>
-[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-readme-stats-action"><img src="./profile/stats.svg" width="55.7%" align="top" alt="luoyeETH's GitHub stats" /></a>
+  <a href="https://github.com/stats-organization/github-readme-stats-action"><img src="./profile/top-langs.svg" width="42.3%" align="top" alt="Top Languages" /></a>
+</p>
 
 ---
 
