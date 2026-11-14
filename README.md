@@ -15,15 +15,15 @@
 
 ### 📊 GitHub Stats
 
-[![luoyeETH's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luoyeETH&theme=tokyonight&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![luoyeETH's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
 <br/>
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luoyeETH&theme=tokyonight&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 ---
 
 ### 🔥 Contribution Streak
 
-[![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=luoyeETH&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Streak Stats](./profile/streak.svg)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
